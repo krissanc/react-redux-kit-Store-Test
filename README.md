@@ -1,6 +1,8 @@
-Try the functionality here:
+Try the functionality here: https://cozy-sherbet-2a7bc0.netlify.app/
 
+Click the cart to expand the 'Nav Cart'
 
+Focus on the functionality. The site has not been 'beautified' yet :) I will fix it up once I have some more time.
 
 
 This time I wanted to expand on the redux kit and try the react-redux kit to see what it offered in terms of making the redux arcitechture easier to code. It was fantastic to use. The useSelector and usedispatch hooks are great to use and gives the coder much more power. The only import necessary is in the index.js file, to import the store and wrap the <App/> in <Provider> tags.
