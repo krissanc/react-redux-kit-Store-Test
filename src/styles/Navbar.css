@@ -1,0 +1,30 @@
+nav {
+    margin: 0;
+    padding: 0;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+    background: #DD9787;
+    height: 7vh;
+
+}
+
+.cart-icon {
+    margin-right: 1%;
+}
+
+.cart-icon img {
+    width: 3vw;
+    height: 5vh;
+
+}
+
+.items-in-cart-indicator {
+    position: absolute;
+    z-index: 9999;
+
+    top: -2%;
+    right: 4.5%;
+}
